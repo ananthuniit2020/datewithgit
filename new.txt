@@ -1,7 +1,836 @@
-can we meet today?
+soft Windows [Version 10.0.22621.1992]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Ananthu R Krishnan>cd C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hey.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new> git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new> git add .
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new> git commit -m "feature updated"
+[feature 07dfdeb] feature updated
+ 1 file changed, 1 insertion(+)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git logs
+git: 'logs' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b (master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+(END)...skipping...
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b (master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+~
+~
+~
+~
+~
+~
+(END)
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b (master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+(END)
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b (master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+~
+~
+~
+~
+~
+~
+(END)
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b (master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout master
+Switched to branch 'master'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge feature
+Updating d4d27e0..07dfdeb
+Fast-forward
+ hey.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be (HEAD -> master, feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
+
+    feature updated
+
+commit d4d27e0f8c41ae553d274437e9bc626cf8b7982b
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:54:57 2023 +0530
+
+    Day 2 started
+
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git branch
+  feature
+* master
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout feature
+Switched to branch 'feature'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hey.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git diff
+diff --git a/hey.txt b/hey.txt
+index 4f01875..f2ce532 100644
+--- a/hey.txt
++++ b/hey.txt
+@@ -1 +1,6 @@
+-hi friends.
+\ No newline at end of file
++hi friends.
++
++
++rfbgmovkkgs
++efs'g
++fnfldg,fgf,
+\ No newline at end of file
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git stash
+Saved working directory and index state WIP on feature: 07dfdeb feature updated
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git diff
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git branch
+* feature
+  master
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        new.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add new.txt
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "new file"
+[feature 55cc59f] new file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new.txt
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout feature
+Already on 'feature'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout master
+Switched to branch 'master'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hey.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add .
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "hey updated"
+[master 8db5bfd] hey updated
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all
+commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65 (HEAD -> master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:11:20 2023 +0530
+
+    hey updated
+
+commit 55cc59f837890d8233858e62d76645ed38692067 (feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:09:51 2023 +0530
+
+    new file
+
+commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+Merge: 07dfdeb b8caace
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+    WIP on feature: 07dfdeb feature updated
+
+commit b8caace77a569d982d8cf810f82dd03ffd60c922
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+    index on feature: 07dfdeb feature updated
+
+commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 11:59:53 2023 +0530
 
 
-No, we can't
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --decerate
+fatal: unrecognized argument: --decerate
 
-yes we can
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git help
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+* commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65 (HEAD -> master)
+| Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| Date:   Fri Jul 21 12:11:20 2023 +0530
+|
+|     hey updated
+|
+| * commit 55cc59f837890d8233858e62d76645ed38692067 (feature)
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:09:51 2023 +0530
+|
+|       new file
+|
+| * commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+|/| Merge: 07dfdeb b8caace
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:05:43 2023 +0530
+| |
+| |     WIP on feature: 07dfdeb feature updated
+| |
+| * commit b8caace77a569d982d8cf810f82dd03ffd60c922
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:05:43 2023 +0530
+|
+|       index on feature: 07dfdeb feature updated
+|
+* commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65 (HEAD -> master)
+| Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| Date:   Fri Jul 21 12:11:20 2023 +0530
+|
+|     hey updated
+|
+| * commit 55cc59f837890d8233858e62d76645ed38692067 (feature)
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:09:51 2023 +0530
+|
+|       new file
+|
+| * commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+|/| Merge: 07dfdeb b8caace
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:05:43 2023 +0530
+| |
+| |     WIP on feature: 07dfdeb feature updated
+| |
+| * commit b8caace77a569d982d8cf810f82dd03ffd60c922
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:05:43 2023 +0530
+|
+|       index on feature: 07dfdeb feature updated
+|
+* commit 07dfdebfd93e967a4096638bcaa2a3f0a0b1c8be
+| Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| Date:   Fri Jul 21 11:59:53 2023 +0530
+|
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git branch
+  feature
+* master
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge feature
+Merge made by the 'ort' strategy.
+ new.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new.txt
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log -all
+error: switch `l' expects a numerical value
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all
+commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b (HEAD -> master)
+Merge: 8db5bfd 55cc59f
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:17:43 2023 +0530
+
+    Merge branch 'feature'
+
+commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:11:20 2023 +0530
+
+    hey updated
+
+commit 55cc59f837890d8233858e62d76645ed38692067 (feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:09:51 2023 +0530
+
+    new file
+
+commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+Merge: 07dfdeb b8caace
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+    WIP on feature: 07dfdeb feature updated
+
+commit b8caace77a569d982d8cf810f82dd03ffd60c922
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+*   commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b (HEAD -> master)
+|\  Merge: 8db5bfd 55cc59f
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:17:43 2023 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit 55cc59f837890d8233858e62d76645ed38692067 (feature)
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:09:51 2023 +0530
+| |
+| |     new file
+| |
+* | commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:11:20 2023 +0530
+|
+|       hey updated
+|
+| * commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+|/| Merge: 07dfdeb b8caace
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:05:43 2023 +0530
+| |
+| |     WIP on feature: 07dfdeb feature updated
+| |
+| * commit b8caace77a569d982d8cf810f82dd03ffd60c922
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:05:43 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout feature
+Switched to branch 'feature'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge master
+Updating 55cc59f..a5e623d
+Fast-forward
+ hey.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch feature
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all
+commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b (HEAD -> feature, master)
+Merge: 8db5bfd 55cc59f
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:17:43 2023 +0530
+
+    Merge branch 'feature'
+
+commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:11:20 2023 +0530
+
+    hey updated
+
+commit 55cc59f837890d8233858e62d76645ed38692067
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:09:51 2023 +0530
+
+    new file
+
+commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+Merge: 07dfdeb b8caace
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+    WIP on feature: 07dfdeb feature updated
+
+commit b8caace77a569d982d8cf810f82dd03ffd60c922
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+*   commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b (HEAD -> feature, master)
+|\  Merge: 8db5bfd 55cc59f
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:17:43 2023 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit 55cc59f837890d8233858e62d76645ed38692067
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:09:51 2023 +0530
+| |
+| |     new file
+| |
+* | commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:11:20 2023 +0530
+|
+|       hey updated
+|
+| * commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+|/| Merge: 07dfdeb b8caace
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:05:43 2023 +0530
+| |
+| |     WIP on feature: 07dfdeb feature updated
+| |
+| * commit b8caace77a569d982d8cf810f82dd03ffd60c922
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:05:43 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git branch
+* feature
+  master
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add .
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "new updated"
+[feature 91bb3c4] new updated
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all
+commit 91bb3c4c70c2e1a949f67c566fa1a63a0fb9e2d1 (HEAD -> feature)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:22:41 2023 +0530
+
+    new updated
+
+commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b (master)
+Merge: 8db5bfd 55cc59f
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:17:43 2023 +0530
+
+    Merge branch 'feature'
+
+commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:11:20 2023 +0530
+
+    hey updated
+
+commit 55cc59f837890d8233858e62d76645ed38692067
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:09:51 2023 +0530
+
+    new file
+
+commit 289b0b5f0c92aec7f00242aa995dc0eb594da102 (refs/stash)
+Merge: 07dfdeb b8caace
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Fri Jul 21 12:05:43 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout master
+Switched to branch 'master'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   new.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add .
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "new file updated"
+[master 25f5181] new file updated
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+* commit 25f5181c5797e9ed22d38e6c811bfb0483a906a3 (HEAD -> master)
+| Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| Date:   Fri Jul 21 12:24:43 2023 +0530
+|
+|     new file updated
+|
+| * commit 91bb3c4c70c2e1a949f67c566fa1a63a0fb9e2d1 (feature)
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:22:41 2023 +0530
+|
+|       new updated
+|
+*   commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b
+|\  Merge: 8db5bfd 55cc59f
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:17:43 2023 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit 55cc59f837890d8233858e62d76645ed38692067
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:09:51 2023 +0530
+| |
+| |     new file
+| |
+* | commit 8db5bfd2d0f55d06dafa4f5f7265310973f16d65
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:11:20 2023 +0530
+|
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge feature
+Auto-merging new.txt
+CONFLICT (content): Merge conflict in new.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge feature
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git diff
+diff --cc new.txt
+index 94268f7,c89bf5b..0000000
+--- a/new.txt
++++ b/new.txt
+@@@ -1,3 -1,3 +1,7 @@@
+  can we meet today?
+
+- No, we can't
+ -yes we can
+++
+++No, we can't
+++
+++yes we can
+++
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   new.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add --all
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "conflict fixed"
+[master f609cfb] conflict fixed
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+*   commit f609cfb9ba4516c1b8c83e17df712e51b4fc010f (HEAD -> master)
+|\  Merge: 25f5181 91bb3c4
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:28:19 2023 +0530
+| |
+| |     conflict fixed
+| |
+| * commit 91bb3c4c70c2e1a949f67c566fa1a63a0fb9e2d1 (feature)
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:22:41 2023 +0530
+| |
+| |     new updated
+| |
+* | commit 25f5181c5797e9ed22d38e6c811bfb0483a906a3
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:24:43 2023 +0530
+|
+|       new file updated
+|
+*   commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b
+|\  Merge: 8db5bfd 55cc59f
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:17:43 2023 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit 55cc59f837890d8233858e62d76645ed38692067
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:09:51 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge feature
+Already up to date.
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git branch
+  feature
+* master
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git checkout feature
+Switched to branch 'feature'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git merge master
+Updating 91bb3c4..f609cfb
+Fast-forward
+ new.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log --all --graph
+*   commit f609cfb9ba4516c1b8c83e17df712e51b4fc010f (HEAD -> feature, master)
+|\  Merge: 25f5181 91bb3c4
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:28:19 2023 +0530
+| |
+| |     conflict fixed
+| |
+| * commit 91bb3c4c70c2e1a949f67c566fa1a63a0fb9e2d1
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:22:41 2023 +0530
+| |
+| |     new updated
+| |
+* | commit 25f5181c5797e9ed22d38e6c811bfb0483a906a3
+|/  Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+|   Date:   Fri Jul 21 12:24:43 2023 +0530
+|
+|       new file updated
+|
+*   commit a5e623de62dd6f0b3ecd6dab94079223f2f9e72b
+|\  Merge: 8db5bfd 55cc59f
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:17:43 2023 +0530
+| |
+| |     Merge branch 'feature'
+| |
+| * commit 55cc59f837890d8233858e62d76645ed38692067
+| | Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+| | Date:   Fri Jul 21 12:09:51 2023 +0530
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>
 
