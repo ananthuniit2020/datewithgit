@@ -228,3 +228,41 @@ Date:   Thu Jul 20 13:17:32 2023 +0530
     'HALLO'
 
 C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>^A
+
+
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   hello.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git add .
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git commit -m "Day 1"
+[master d5531be] Day 1
+ 1 file changed, 230 insertions(+), 1 deletion(-)
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>git log
+commit d5531be4dd3ac2e27beb70f281b5489ec3c256be (HEAD -> master)
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:24:59 2023 +0530
+
+    Day 1
+
+commit 6905cd440103fb6f26d62d84340f5a2ff6526d32
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:19:28 2023 +0530
+
+    hi
+
+commit 3201c8ca5fc28a77a71081dca03b066cf2757047
+Author: Ananthu R krishnan <ananthu0074u@gmail.com>
+Date:   Thu Jul 20 13:17:32 2023 +0530
+
+    'HALLO'
+
+C:\Users\Ananthu R Krishnan\OneDrive\Desktop\python code\new>
